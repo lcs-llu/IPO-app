@@ -11,6 +11,7 @@
 		3AE94DFA2764F15C00C0ACC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE94DF92764F15C00C0ACC0 /* ContentView.swift */; };
 		3AE94DFC2764F15E00C0ACC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AE94DFB2764F15E00C0ACC0 /* Assets.xcassets */; };
 		3AE94DFF2764F15E00C0ACC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AE94DFE2764F15E00C0ACC0 /* Preview Assets.xcassets */; };
+		3AE94E062764F32800C0ACC0 /* FlashcardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE94E052764F32800C0ACC0 /* FlashcardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3AE94DF92764F15C00C0ACC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3AE94DFB2764F15E00C0ACC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AE94DFE2764F15E00C0ACC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3AE94E052764F32800C0ACC0 /* FlashcardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3AE94DF72764F15C00C0ACC0 /* IPO_appApp.swift */,
 				3AE94DF92764F15C00C0ACC0 /* ContentView.swift */,
+				3AE94E052764F32800C0ACC0 /* FlashcardView.swift */,
 				3AE94DFB2764F15E00C0ACC0 /* Assets.xcassets */,
 				3AE94DFD2764F15E00C0ACC0 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3AE94DFA2764F15C00C0ACC0 /* ContentView.swift in Sources */,
+				3AE94E062764F32800C0ACC0 /* FlashcardView.swift in Sources */,
 				3AE94DF82764F15C00C0ACC0 /* IPO_appApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

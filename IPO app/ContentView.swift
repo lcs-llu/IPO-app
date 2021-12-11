@@ -9,11 +9,21 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        NavigationView{
+            VStack {
+                Text("Chinese- Englishing learning")
+                    .font(.title)
+                NavigationLink(destination: {Text("Placeholder")}){
+                    Text("Flashcard")
+                        .font(.largeTitle)                    .padding()
+                    
+                    
+            }
+        }
+            
     }
 }
-
+}
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
